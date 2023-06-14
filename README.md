@@ -1,16 +1,29 @@
-# mvpgamedev
+# Project Name
 
-A new Flutter project.
+[Project Name](https://www.example.com) - [Final Project Blog Article](https://www.example.com/blog)
 
-## Getting Started
+Author(s): Anomihe Nmesoma Kenneth - [LinkedIn](https://www.linkedin.com/in/nmesoma-kenneth-anomihe/)
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+This project is an MVP project which allows players to test their concentration on how long they can stay within a maze
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For now to run this project locally on your device would require you clone the repo and run "flutter build apk"
+
+## Usage
+
+is a game ,so there is no restriction on how to play 
+
+## Contributing
+
+Anyone is allowed to contriubute since is purely an open project 
+
+## Related Projects
+
+
+
+## Licensing
+
+This project is licensed under the [MIT License](LICENSE.txt). Please review the license file for more information.
